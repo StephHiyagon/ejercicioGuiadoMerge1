@@ -1,3 +1,3 @@
 function saludo(){
-  return console.log("Holitas");
+  return console.log("prueba2");
 }
